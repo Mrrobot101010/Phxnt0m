@@ -41,7 +41,7 @@ if %errorlevel% neq 0 (
 cls
 title Starting builder...
 
-:: Open the unblock.py script
+:: OP script
 cd /d %~dp0
 start "" "Extras\unblock.py"
 
