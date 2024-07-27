@@ -3,7 +3,7 @@
 
 Phxnt0m is an updated and more powerful version of the original Phxnt0m tool, designed to be fully undetected (FUD) and highly effective. This tool offers enhanced capabilities for penetration testing and red teaming, ensuring you can carry out your tasks with greater efficiency and stealth.
 
-![FUD .exe](https://cdn.discordapp.com/attachments/1252644513227214920/1254647406222508093/image.png?ex=667a40f3&is=6678ef73&hm=218d9453abcbab3f01e521344cf5c16264c4f382c380cb8caf67a81ec3b26aed&)
+![FUD .exe](https://cdn.discordapp.com/attachments/1260609030808797249/1266600746405597184/image.png?ex=66a5bd5e&is=66a46bde&hm=34909d2b5437e4b6478d034a3cb95e376e84cedab7f68c38d99dcfdf1be83551&)
 *FUD .exe*
 
 ## Features
@@ -13,8 +13,6 @@ Phxnt0m is an updated and more powerful version of the original Phxnt0m tool, de
 - **Ease of Use**: User-friendly interface and straightforward setup process.
 - **Versatile**: Available in both executable and Python script formats.
 
-![FUD Python](https://cdn.discordapp.com/attachments/1252644513227214920/1254647732778565653/image.png?ex=667a4141&is=6678efc1&hm=f364bd660b93ff226a236eb5ac040a6e02a01bd1b78f0eb150fe15fb1c3b11ff&)
-*FUD Python*
 
 ## Download
 
